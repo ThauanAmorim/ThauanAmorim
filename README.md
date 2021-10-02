@@ -1,7 +1,7 @@
 ## You here? Hi, I'm Thauan Amorim 
  <div>
   <a href="https://github.com/ThauanAmorim">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThauanAmorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThauanAmorim&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanAmorim&layout=compact&langs_count=7&theme=Gradient"/>
 </div>
 <div style="display: inline_block"><br>
