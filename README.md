@@ -3,6 +3,7 @@
   <a href="https://github.com/ThauanAmorim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThauanAmorim&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanAmorim&layout=compact&langs_count=7&theme=vue-dark"/>
+   
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -25,4 +26,15 @@
  
   ![Snake animation](https://github.com/ThauanAmorim/ThauanAmorim/blob/output/github-contribution-grid-snake.svg)
  
+ 
+</div>
+ 
+  ## Main Projects
+ 
+ <div>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThauanAmorim&repo=Leilao-website&theme=vue-dark)](https://github.com/ThauanAmorim/Leilao-website)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThauanAmorim&repo=Discord-Bot-Registro-De-Camp&theme=vue-dark)](https://github.com/ThauanAmorim/Discord-Bot-Registro-De-Camp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThauanAmorim&repo=PrimeiroProjetoPython&theme=vue-dark)](https://github.com/ThauanAmorim/PrimeiroProjetoPython)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaopaulopbjp&repo=ifpb_monteiro_dac_2021_2_grupo_3&theme=vue-dark)](https://github.com/joaopaulopbjp/ifpb_monteiro_dac_2021_2_grupo_3)
 </div>
