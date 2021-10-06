@@ -35,6 +35,6 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThauanAmorim&repo=Leilao-website&theme=vue-dark)](https://github.com/ThauanAmorim/Leilao-website)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThauanAmorim&repo=Discord-Bot-Registro-De-Camp&theme=vue-dark)](https://github.com/ThauanAmorim/Discord-Bot-Registro-De-Camp)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThauanAmorim&repo=PrimeiroProjetoPython&theme=vue-dark)](https://github.com/ThauanAmorim/PrimeiroProjetoPython)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThauanAmorim&repo=Projeto_estagio&theme=vue-dark)](https://github.com/ThauanAmorim/Projeto_estagio)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaopaulopbjp&repo=ifpb_monteiro_dac_2021_2_grupo_3&theme=vue-dark)](https://github.com/joaopaulopbjp/ifpb_monteiro_dac_2021_2_grupo_3)
 </div>
