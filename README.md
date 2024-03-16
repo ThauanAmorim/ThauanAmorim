@@ -3,7 +3,8 @@
   <a href="https://github.com/ThauanAmorim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThauanAmorim&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 <!--   <img height="160em" src="https://gitlab-readme-stats-flax.vercel.app/api?username=Thauan.Amorim"/>
-  <img height="160em" src="https://gitlab-readme-stats.vercel.app/api?username=Thauan.Amorim&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/> -->
+  <img height="160em" src="https://gitlab-readme-stats.vercel.app/api?username=Thauan.Amorim&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+   https://github.com/anuraghazra/github-readme-stats-->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThauanAmorim&layout=compact&langs_count=7&theme=vue-dark"/>
    
 </div>
