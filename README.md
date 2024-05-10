@@ -29,7 +29,8 @@
  
   ![Snake animation](https://github.com/ThauanAmorim/ThauanAmorim/blob/output/github-contribution-grid-snake.svg)
  
- 
+
+ <!--
 </div>
  
   ## Main Projects
@@ -41,3 +42,4 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThauanAmorim&repo=Projeto_estagio&theme=vue-dark)](https://github.com/ThauanAmorim/Projeto_estagio)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaopaulopbjp&repo=ifpb_monteiro_dac_2021_2_grupo_3&theme=vue-dark)](https://github.com/joaopaulopbjp/ifpb_monteiro_dac_2021_2_grupo_3)
 </div>
+-->
